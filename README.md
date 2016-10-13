@@ -7,6 +7,8 @@ Ready to deploy on LAMP stack.
 
 ![1](demos/1.png)
 
-![2](demos/2.png)
+![2](demos/3.png)
 
-![3](demos/3.png)
+![3](demos/2.png)
+
+
