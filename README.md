@@ -1,4 +1,4 @@
-# DropboxLoginForm
-Beautiful login/registration form inspired by Dropbox
+# PHP DropboxForm
+Beautiful login/registration form inspired by Dropbox with animation via JQuery and PHP backend.
 
-See how it looks: http://hmate9.github.io/DropboxLoginForm/
+Ready to deploy on LAMP stack.
